@@ -1,0 +1,66 @@
+@font-face {
+    font-family: 'Abril Fatface';
+    src: url('../fonts/AbrilFatface-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+#cabezera {
+    font-family: 'Abril Fatface', sans-serif;
+    color: #D0D1AC;
+    font-weight: bold;
+}
+h1{
+    font-family: 'Abril Fatface', sans-serif;
+    color: #D0D1AC;
+    font-weight: bold;
+    font-size: 50px;
+}
+.tituloLogin{
+    font-family: 'Abril Fatface', sans-serif;
+    color: #466362;
+    font-weight: bold;
+
+}
+
+.subtituloLogin{
+    font-family: 'Abril Fatface', sans-serif;
+    color: #F86624; 
+}
+.verde{
+    background-color: #295135;
+}
+.footerModel{
+    background-color: #466362;
+}
+.boton_login{
+    background-color: #F86624;
+    color: #D0D1AC;
+    
+}
+.fondoGaleria{
+    background-color: #466362;
+}
+.fondoGaleriaCuadricula{
+    background-color: #D0D3B1;
+}
+footer{
+    color: #D0D1AC;
+    font-weight: bold;
+}
+footer a {
+    color: #F86624; 
+    text-decoration: none; 
+}
+body{
+    background: #D0D3B1;
+}
+#misionVision{
+    background-color: #466362;
+}
+.imagenTienda {
+    height: 200px;
+    max-width:200px ;
+    color: red;
+    margin-left: auto;
+    margin-right: auto;
+}
